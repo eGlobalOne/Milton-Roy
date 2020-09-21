@@ -1036,7 +1036,7 @@ section.lazy-placeholder:after {
 }
 .cid-s2b0tb94bl {
   padding-top: 120px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/fondo-banner-1920x954.png");
 }
 .cid-s2b0tb94bl .media-content {
@@ -1261,7 +1261,7 @@ section.lazy-placeholder:after {
   .cid-saSAeBL8Es .mbr-section-subtitle,
   .cid-saSAeBL8Es .mbr-section-text,
   .cid-saSAeBL8Es .mbr-section-btn {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 @keyframes blink {
@@ -1299,7 +1299,7 @@ section.lazy-placeholder:after {
 }
 .cid-saSAeBL8Es .mbr-section-text,
 .cid-saSAeBL8Es .mbr-section-btn {
-  text-align: right;
+  text-align: left;
 }
 .cid-saSE1ayeDp {
   padding-top: 0px;
@@ -1340,7 +1340,7 @@ section.lazy-placeholder:after {
   .cid-saSE1ayeDp .mbr-section-subtitle,
   .cid-saSE1ayeDp .mbr-section-text,
   .cid-saSE1ayeDp .mbr-section-btn {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 @keyframes blink {
@@ -1378,7 +1378,7 @@ section.lazy-placeholder:after {
 }
 .cid-saSE1ayeDp .mbr-section-text,
 .cid-saSE1ayeDp .mbr-section-btn {
-  text-align: right;
+  text-align: left;
 }
 .cid-saSJuCJCEb {
   padding-top: 0px;
@@ -1419,7 +1419,7 @@ section.lazy-placeholder:after {
   .cid-saSJuCJCEb .mbr-section-subtitle,
   .cid-saSJuCJCEb .mbr-section-text,
   .cid-saSJuCJCEb .mbr-section-btn {
-    text-align: center !important;
+    text-align: left !important;
   }
 }
 @keyframes blink {
