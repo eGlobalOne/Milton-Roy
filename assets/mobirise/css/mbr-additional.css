@@ -1030,9 +1030,12 @@ section.lazy-placeholder:after {
     height: auto !important;
     width: 80%;
   }
-}
-.cid-s26VvYJr1l media (max-width: 767px) .navbar.navbar-short .navbar-logo a img {
-  height: auto !important;
+  .cid-s26VvYJr1l ul {
+    column-count: 2;
+  }
+  .cid-s26VvYJr1l img {
+    height: 2.8rem !important;
+  }
 }
 .cid-s2b0tb94bl {
   padding-top: 120px;
@@ -1621,69 +1624,69 @@ section.lazy-placeholder:after {
     padding-bottom: 1rem;
   }
 }
-.cid-s27XhIq2jK {
+.cid-sbgabPM1Zk {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-s27XhIq2jK h2 {
+.cid-sbgabPM1Zk h2 {
   text-align: left;
 }
-.cid-s27XhIq2jK h4 {
+.cid-sbgabPM1Zk h4 {
   text-align: left;
   font-weight: 500;
 }
-.cid-s27XhIq2jK p {
+.cid-sbgabPM1Zk p {
   color: #767676;
   text-align: left;
 }
-.cid-s27XhIq2jK .aside-content {
+.cid-sbgabPM1Zk .aside-content {
   flex-basis: 100%;
   -webkit-flex-basis: 100%;
 }
-.cid-s27XhIq2jK .block-content {
+.cid-sbgabPM1Zk .block-content {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
   word-break: break-word;
 }
-.cid-s27XhIq2jK .media {
+.cid-sbgabPM1Zk .media {
   margin: initial;
   align-items: center;
   -webkit-align-items: center;
 }
-.cid-s27XhIq2jK .mbr-figure {
+.cid-sbgabPM1Zk .mbr-figure {
   align-self: flex-start;
   -webkit-align-self: flex-start;
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
-.cid-s27XhIq2jK .card-img {
+.cid-sbgabPM1Zk .card-img {
   padding-right: 2rem;
   width: auto;
 }
-.cid-s27XhIq2jK .card-img span {
+.cid-sbgabPM1Zk .card-img span {
   font-size: 72px;
   color: #707070;
 }
 @media (min-width: 992px) {
-  .cid-s27XhIq2jK .mbr-figure {
+  .cid-sbgabPM1Zk .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-s27XhIq2jK .mbr-figure {
+  .cid-sbgabPM1Zk .mbr-figure {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 300px) {
-  .cid-s27XhIq2jK .card-img span {
+  .cid-sbgabPM1Zk .card-img span {
     font-size: 40px !important;
   }
 }
-.cid-s27XhIq2jK P {
+.cid-sbgabPM1Zk P {
   text-align: left;
 }
 .cid-s4KS0lJitI {
